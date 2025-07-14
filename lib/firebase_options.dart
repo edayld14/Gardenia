@@ -41,48 +41,40 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyD2-3NvLPbnLYLcLYQ-Bfx9eEEFin_fFzw',
-    appId: '1:416223294952:web:afa9dc09695e1a9d27205d',
-    messagingSenderId: '416223294952',
-    projectId: 'gardenia-d7b46',
-    authDomain: 'gardenia-d7b46.firebaseapp.com',
-    storageBucket: 'gardenia-d7b46.firebasestorage.app',
-    measurementId: 'G-KTZ4NHYGFK',
+    apiKey: 'yourapikey',
+    appId: '',
+    messagingSenderId: '',
+    projectId: 'gardenia',
+    authDomain: '',
+    storageBucket: '',
+    measurementId: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB7D1hpbCvq1_Fo-1jaZY6vmnAqL2fnoNw',
-    appId: '1:416223294952:android:d6b77dfda26ea87827205d',
-    messagingSenderId: '416223294952',
-    projectId: 'gardenia-d7b46',
-    storageBucket: 'gardenia-d7b46.firebasestorage.app',
+    apiKey: 'yourapikey',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCrvLDc-z2YxdM2c3wrgU-IRWvd9s6o-uA',
-    appId: '1:416223294952:ios:166b4b8e020810d727205d',
-    messagingSenderId: '416223294952',
-    projectId: 'gardenia-d7b46',
-    storageBucket: 'gardenia-d7b46.firebasestorage.app',
+    apiKey: 'yourapikey',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
     iosBundleId: 'com.example.gardenia',
   );
 
-  static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCrvLDc-z2YxdM2c3wrgU-IRWvd9s6o-uA',
-    appId: '1:416223294952:ios:166b4b8e020810d727205d',
-    messagingSenderId: '416223294952',
-    projectId: 'gardenia-d7b46',
-    storageBucket: 'gardenia-d7b46.firebasestorage.app',
-    iosBundleId: 'com.example.gardenia',
-  );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyD2-3NvLPbnLYLcLYQ-Bfx9eEEFin_fFzw',
-    appId: '1:416223294952:web:7b32b3384d3e6d6b27205d',
-    messagingSenderId: '416223294952',
-    projectId: 'gardenia-d7b46',
-    authDomain: 'gardenia-d7b46.firebaseapp.com',
-    storageBucket: 'gardenia-d7b46.firebasestorage.app',
-    measurementId: 'G-BWMBW5948Z',
+    apiKey: 'yourapikey',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
+    measurementId: '',
   );
 }
