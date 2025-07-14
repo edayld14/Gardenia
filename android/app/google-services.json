@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416223294952",
+    "project_id": "gardenia-d7b46",
+    "storage_bucket": "gardenia-d7b46.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416223294952:android:d6b77dfda26ea87827205d",
+        "android_client_info": {
+          "package_name": "com.example.gardenia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7D1hpbCvq1_Fo-1jaZY6vmnAqL2fnoNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
