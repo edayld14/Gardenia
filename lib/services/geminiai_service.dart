@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 
 class GeminiService {
   static const String _apiKey =
-      'AIzaSyDrfJG7CGT0WHsGQs5leLejsi_s8RJV4bY'; // 🔑 Buraya kendi API anahtarını ekle
+      'yourkey'; // 🔑 Buraya kendi API anahtarını ekle
   static const String _url =
       'https://generativelanguage.googleapis.com/v1beta/models/gemini:generateContent?key=$_apiKey';
 
